@@ -1,0 +1,6 @@
+---
+applications:
+- name: guide_to_retirement
+  instances: 1
+  random-route: true
+  command: node index.js
